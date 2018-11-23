@@ -1,0 +1,20 @@
+root@kali:~/Downloads# nc 2018shell.picoctf.com 63299
+You'll need to consult the file `incidents.json` to answer the following questions.
+
+
+What is the most common source IP address? If there is more than one IP address that is the most common, you may give any of the most common ones.
+135.171.87.112
+Correct!
+
+
+How many unique destination IP addresses were targeted by the source IP address 60.248.104.145?
+1
+Correct!
+
+
+What is the number of unique destination ips a file is sent, on average? Needs to be correct to 2 decimal places.
+1.42
+Correct!
+
+
+Great job. You've earned the flag: picoCTF{J4y_s0n_d3rUUUULo_23fa6fa6}
