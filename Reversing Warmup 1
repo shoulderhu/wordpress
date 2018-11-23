@@ -1,0 +1,3 @@
+root@kali:~/Downloads# chmod +x run 
+root@kali:~/Downloads# ./run 
+picoCTF{welc0m3_t0_r3VeRs1nG}
