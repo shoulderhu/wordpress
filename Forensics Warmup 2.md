@@ -13,4 +13,4 @@ root@kali:~/Downloads# xxd flag.png | head -n 1
 root@kali:~/Downloads# mv flag.png flag.jpg
 ```
 
-![1](https://www.dropbox.com/s/6gec4v8txac0wqc/Forensics-Warmup-2.jpg?raw=1)
+![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Forensics/Forensics%20Warmup%202/Forensics-Warmup-2.jpg)

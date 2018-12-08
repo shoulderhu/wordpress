@@ -10,4 +10,4 @@ Archive:  flag.zip
   inflating: flag.jpg
 ```
 
-![1](https://www.dropbox.com/s/2890e6bn2cs5hlr/Forensics-Warmup-1.jpg?raw=1)
+![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Forensics/Forensics%20Warmup%201/Forensics-Warmup-1.jpg)

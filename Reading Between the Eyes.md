@@ -3,6 +3,9 @@
 ## Solve
 Stego-Saurus hid a message for you in this [image](https://2018shell.picoctf.com/static/3e423171eed198e8425524a1b052869b/husky.png), can you retreive it?
 
+## Hints
+Maybe you can find an online decoder?
+
 ## Solution
 ```python
 import cv2 as cv
