@@ -1,3 +1,5 @@
+:checkered_flag: picoCTF{J4y_s0n_d3rUUUULo_23fa6fa6}
+
 ## Solve
 Our network administrator is having some trouble handling the tickets for all of of our incidents. Can you help him out by answering all the questions? Connect with `nc 2018shell.picoctf.com 63299`. [incidents.json](https://2018shell.picoctf.com/static/eddbe63bba72a01be6c7c5aba03807bd/incidents.json)
 
