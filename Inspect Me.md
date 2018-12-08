@@ -1,3 +1,5 @@
+:checkered_flag: picoCTF{ur_4_real_1nspect0r_g4dget_b4887011}
+
 ## Solve
 Inpect this code! `http://2018shell.picoctf.com:28831` ([link](http://2018shell.picoctf.com:28831))
 
