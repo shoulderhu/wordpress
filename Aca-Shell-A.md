@@ -5,7 +5,7 @@ It's never a bad idea to brush up on those linux skills or even learn some new o
 
 ## Hints
 Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
-![1](https://github.com/shoulderhu/123/blob/master/Logon-1.png)
+![1](https://raw.githubusercontent.com/shoulderhu/123/master/Logon-1.png)
 ## Solution
 ```bash
 root@kali:~/Downloads# nc 2018shell.picoctf.com 6903
