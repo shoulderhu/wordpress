@@ -20,7 +20,7 @@ for i in range(0, img.shape[0]):
 lsb = int(lsb, 2)
 message = lsb.to_bytes((lsb.bit_length() + 7) // 8, 'big').decode()
 
-with open("husky2.txt", "w") as txt:
+with open("husky.txt", "w") as txt:
     txt.write(message)
 ```
 
