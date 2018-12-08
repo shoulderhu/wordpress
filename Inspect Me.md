@@ -3,6 +3,9 @@
 ## Solve
 Inpect this code! `http://2018shell.picoctf.com:28831` ([link](http://2018shell.picoctf.com:28831))
 
+## Hints
+How do you inspect a website's code on a browser? Check all the website code.
+
 ## Solution
 ![1](https://www.dropbox.com/s/772gyqt4qcil182/Inspect-Me-1.png?raw=1)
 

@@ -3,6 +3,9 @@
 ## Solve
 Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](https://2018shell.picoctf.com/static/43f28853477d7b2ed52e0efbfb04dff7/table.txt) to solve it?
 
+## Hints
+Please use all caps for the message.
+
 ## Solution
 ```
     A B C D E F G H I J K L M N O P Q R S T U V W X Y Z

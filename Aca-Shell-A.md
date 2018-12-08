@@ -3,6 +3,9 @@
 ## Solve
 It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with `nc 2018shell.picoctf.com 6903`.
 
+## Hints
+Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
+![1](https://github.com/shoulderhu/123/blob/master/Logon-1.png)
 ## Solution
 ```bash
 root@kali:~/Downloads# nc 2018shell.picoctf.com 6903
