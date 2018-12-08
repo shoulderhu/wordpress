@@ -6,7 +6,6 @@ As nice as it is to use our webshell, sometimes its helpful to connect directly 
 ## Hints
 key generation [tutorial](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)  
 We also have an expert demonstrator to help you along. [link](https://www.youtube.com/watch?v=3CN65ccfllU&list=PLJ_vkrXdcgH-lYlRV8O-kef2zWvoy79yP&index=4)
-asd
 
 ## Solution
 ```
