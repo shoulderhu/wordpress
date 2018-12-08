@@ -7,6 +7,6 @@ Do you see the same things I see? The glimpses of the flag hidden away? `http://
 What part of the website could tell you where the creator doesn't want you to look?
 
 ## Solution
-![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Mr.%20Robots/Mr.-Robots-1.png)
+![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Mr.%20Robots/Mr-Robots-1.png)
 
-![2](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Mr.%20Robots/Mr.-Robots-2.png)
+![2](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Mr.%20Robots/Mr-Robots-2.png)
