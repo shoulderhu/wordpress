@@ -6,4 +6,4 @@ I made a website so now you can log on to! I don't seem to have the admin passwo
 ## Solution
 ![1](https://www.dropbox.com/s/k7gg8de4wr9fzab/Logon-1.png?raw=1)
 
-![2](https://www.dropbox.com/s/jz5htw15axl8oas/Logon-2.png?raw=2)
+![2](https://www.dropbox.com/s/jz5htw15axl8oas/Logon-2.png?raw=1)
