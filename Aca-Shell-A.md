@@ -1,4 +1,4 @@
-:checkered_flag: picoCTF{NEtcat_iS_a_NEcESSiTy_8b6a1fbc}
+:checkered_flag: picoCTF{CrUsHeD_It_dddcec58}
 
 ## Solve
 It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with `nc 2018shell.picoctf.com 6903`.
