@@ -7,7 +7,7 @@ During your adventure, you will likely encounter a situation where you need to p
 Ever heard of a pipe? No not that kind of pipe... This [kind](http://www.linfo.org/pipes.html)
 
 ## Solution
-```bash
+```
 root@kali:~/Downloads# nc 2018shell.picoctf.com 2015 | grep picoCTF
 picoCTF{almost_like_mario_8861411c}
 ```

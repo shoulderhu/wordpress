@@ -7,7 +7,7 @@ Can you find the flag in [file](https://2018shell.picoctf.com/static/d7d1b6b0a64
 grep [tutorial](https://ryanstutorials.net/linuxtutorial/grep.php)
 
 ## Solution
-```bash
+```
 root@kali:~/Downloads# cat file  | grep picoCTF
 picoCTF{grep_and_you_will_find_cdf2e7c2}
 ```

@@ -7,7 +7,7 @@ Can you find the [flag](https://2018shell.picoctf.com/static/a3d311b507256d5d929
 [strings](https://linux.die.net/man/1/strings)
 
 ## Solution
-```bash
+```
 root@kali:~/Downloads# strings strings | grep picoCTF
 picoCTF{sTrIngS_sAVeS_Time_d3ffa29c}
 ```

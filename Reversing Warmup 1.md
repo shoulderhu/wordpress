@@ -7,7 +7,7 @@ Throughout your journey you will have to run many programs. Can you navigate to 
 If you are searching online, it might be worth finding how to exeucte a program in command line.
 
 ## Solution
-```bash
+```
 root@kali:~/Downloads# chmod +x run
 root@kali:~/Downloads# ./run
 picoCTF{welc0m3_t0_r3VeRs1nG}

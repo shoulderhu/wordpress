@@ -5,9 +5,9 @@ It's never a bad idea to brush up on those linux skills or even learn some new o
 
 ## Hints
 Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
-![1](https://raw.githubusercontent.com/shoulderhu/123/master/Logon-1.png)
+
 ## Solution
-```bash
+```
 root@kali:~/Downloads# nc 2018shell.picoctf.com 6903
 Sweet! We have gotten access into the system but we aren't root.
 It's some sort of restricted shell! I can't see what you are typing
