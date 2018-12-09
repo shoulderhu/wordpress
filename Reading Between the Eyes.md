@@ -13,8 +13,8 @@ import cv2 as cv
 img = cv.imread("husky.png", 1)
 lsb = "0b"
 
-for i in range(0, img.shape[0]):
-    for j in range(0, img.shape[1]):
+for i in range(img.shape[0]):
+    for j in range(img.shape[1]):
         lsb += str(img[i, j][2] % 2)
         lsb += str(img[i, j][1] % 2)
         lsb += str(img[i, j][0] % 2)
