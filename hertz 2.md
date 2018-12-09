@@ -11,7 +11,6 @@ These kinds of problems are solved with a frequency that merits some analysis.
 root@kali:~/Downloads# nc 2018shell.picoctf.com 59771
 Let's decode this now!
 Heg ftuol dqwbx ywn vtcmr wpgq heg sjza kwi. U ojx'h dgsugpg heur ur rtoe jx gjra mqwdsgc ux Muow. Uh'r jscwrh jr uy U rwspgk j mqwdsgc jsqgjka! Wlja, yuxg. Egqg'r heg ysji: muowOHY{rtdrhuhthuwx_oumegqr_jqg_hww_gjra_radgeuouqd}
-
 ```
 
 [https://www.guballa.de/substitution-solver](https://www.guballa.de/substitution-solver)
