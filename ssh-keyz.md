@@ -9,7 +9,7 @@ We also have an expert demonstrator to help you along. [link](https://www.youtub
 
 ## Solution
 ```
-root@kali:~$ ssh-keygen 
+root@kali:~# ssh-keygen 
 Generating public/private rsa key pair.
 Enter file in which to save the key (/root/.ssh/id_rsa): 
 Created directory '/root/.ssh'.
