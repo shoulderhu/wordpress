@@ -28,7 +28,7 @@ def base16(recv):
     recv = recv[1].split(" ")[4]
     word = ""
     for i in range(0, len(recv), 2):
-        word += chr(int(recv[i:i + 2], 16))
+        word += chr(int(recv[i : i + 2], 16))
     print(word)
     nc.sendline(word)
 
