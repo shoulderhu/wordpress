@@ -4,4 +4,4 @@
 There is a website running at `http://2018shell.picoctf.com:53261` ([link](http://2018shell.picoctf.com:53261/)). Try to see if you can login!
 
 ## Solution
-![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/TheVault/The-Vault-1.png)
+![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/The%20Vault/The-Vault-1.png)
