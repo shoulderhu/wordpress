@@ -1,0 +1,3 @@
+[submodule "picoCTF/2018/Writeup"]
+	path = picoCTF/2018/Writeup
+	url = https://gist.github.com/148418f799788a8af787055625383284.git
