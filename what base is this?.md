@@ -11,7 +11,7 @@ I hear python is a good means (among many) to convert things.
 from pwnlib.tubes import remote
 
 def recv_until(delims):
-    recv = nc.recvuntil(delims).decode("utf-8").split("\n")
+    recv = nc.recvuntil(delims).decode().split("\n")
     for line in recv:
         print(line)
     return recv
@@ -41,7 +41,7 @@ def base8(recv):
     nc.sendline(word)
 
 def recv_repeat():
-    for line in nc.recvrepeat().decode("utf-8").split("\n"):
+    for line in nc.recvrepeat().decode().split("\n"):
         print(line)
 
 nc = remote.remote("2018shell.picoctf.com", 14390)
