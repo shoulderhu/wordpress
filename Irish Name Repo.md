@@ -8,5 +8,3 @@ There doesn't seem to be many ways to interact with this, I wonder if the users 
 
 ## Solution
 ![1](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Irish%20Name%20Repo/Irish-Name-Repo-1.png)
-
-![2](https://raw.githubusercontent.com/shoulderhu/wordpress/master/picoCTF/2018/Web%20Exploitation/Irish%20Name%20Repo/Irish-Name-Repo-2.png)
